@@ -1,0 +1,5 @@
+---------nota fiscal--------- 
+ valor da compra = R$100.0
+ valor dos impostos= R$30.0
+valor do representante = R$ 20.0
+ Valor total = R$150.0
